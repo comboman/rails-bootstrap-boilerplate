@@ -244,7 +244,7 @@ DEPENDENCIES
   less-rails
   mocha
   mysql2
-  rails (= 3.2.8)
+  rails (>= 3.2.8)
   rake
   rb-fsevent
   rspec-rails
